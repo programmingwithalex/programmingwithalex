@@ -1,8 +1,10 @@
 <h2> Welcome to my profile<img src="https://media.giphy.com/media/UQnRw2GW4xGwu519XE/giphy.gif" width="50"></h2>
 
+[![Youtube Alex](https://img.shields.io/youtube/channel/views/UC4UApj67YtJq2a2PAzmbQAQ?style=social)](https://www.youtube.com/channel/UC4UApj67YtJq2a2PAzmbQAQ)
 [![Youtube Alex](https://img.shields.io/youtube/channel/subscribers/UC4UApj67YtJq2a2PAzmbQAQ?style=social)](https://www.youtube.com/channel/UC4UApj67YtJq2a2PAzmbQAQ)
 [![GitHub Alex](https://img.shields.io/github/followers/programmingwithalex?label=follow&style=social)](https://github.com/programmingwithalex?tab=followers)
 [![GitHub Alex](https://img.shields.io/github/stars/programmingwithalex?style=social)](https://github.com/programmingwithalex)
+
 <br/><br/>
 <a href="https://www.patreon.com/programmingwithalex"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dprogrammingwithalex%26type%3Dpatrons&style=for-the-badge"/></a>
 
