@@ -20,13 +20,13 @@ If you'd like to get in touch feel free to [email me](mailto:programmingwithalex
 
 ### AWS
 
+[AWS SFTP Server - Production-Ready](https://www.youtube.com/watch?v=Y-_tz9afzS8&list=PLbn3jWIXv_iaYoaT6EeycWBnlgM6LaZUA&index=1)
+
 [Flask + AWS ECS Deployment](https://www.youtube.com/watch?v=a1nnZDps_yM&list=PLbn3jWIXv_iZ566tBk_DTIPGY4fUW4qBn)
 
 [Python + AWS Lambda Deployment](https://www.youtube.com/watch?v=gvfoZq258gA&list=PLbn3jWIXv_ibGQml3zlXi1TfmdcIl6Afy&index=1)
 
 [AWS Lambda Static IP](https://www.youtube.com/watch?v=Vv2CIshrPjI&list=PLbn3jWIXv_iaiPMuF3n_foGA54To_LceT&index=1)
-  
-[AWS SFTP Server - Production-Ready](https://www.youtube.com/watch?v=Y-_tz9afzS8&list=PLbn3jWIXv_iaYoaT6EeycWBnlgM6LaZUA&index=1)
 </td><td valign="top" width="50%">
   
 ### DevOps
