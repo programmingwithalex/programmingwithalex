@@ -20,9 +20,11 @@ If you'd like to get in touch feel free to [email me](mailto:programmingwithalex
 
 ### AWS
 
+[Microservices on AWS with ECS Service Connect](https://www.youtube.com/watch?v=rK__7D9-HbY&list=PLbn3jWIXv_iZhs7hxhKlCoBRrrLQ2OG6Z&index=1)
+
 [AWS SFTP Server - Production-Ready](https://www.youtube.com/watch?v=Y-_tz9afzS8&list=PLbn3jWIXv_iaYoaT6EeycWBnlgM6LaZUA&index=1)
 
-[Flask + AWS ECS Deployment](https://www.youtube.com/watch?v=a1nnZDps_yM&list=PLbn3jWIXv_iZ566tBk_DTIPGY4fUW4qBn)
+[Flask + AWS ECS Deployment](https://www.youtube.com/watch?v=a1nnZDps_yM&list=PLbn3jWIXv_iZ566tBk_DTIPGY4fUW4qBn&index=1)
 
 [Python + AWS Lambda Deployment](https://www.youtube.com/watch?v=gvfoZq258gA&list=PLbn3jWIXv_ibGQml3zlXi1TfmdcIl6Afy&index=1)
 
@@ -30,7 +32,7 @@ If you'd like to get in touch feel free to [email me](mailto:programmingwithalex
 </td><td valign="top" width="50%">
   
 ### DevOps
-[Python + DevOps with GitHub Actions](https://www.youtube.com/watch?v=x3hkXbOkfM8&list=PLbn3jWIXv_ibMS6CFOKMZkOHimDB9xdU2)
+[Python + DevOps with GitHub Actions](https://www.youtube.com/watch?v=x3hkXbOkfM8&list=PLbn3jWIXv_ibMS6CFOKMZkOHimDB9xdU2&index=1)
 </td>
 </tr></table>
 </div>
