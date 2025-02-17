@@ -20,6 +20,8 @@ If you'd like to get in touch feel free to [email me](mailto:programmingwithalex
 
 ### AWS
 
+[Running Celery, Flask, and NGINX on AWS](https://www.youtube.com/watch?v=RBj7ctj5Sk8&list=PLbn3jWIXv_iZqYn-RxjzaGXrDTWa3OnNw&index=1)
+
 [Microservices on AWS with ECS Service Connect](https://www.youtube.com/watch?v=rK__7D9-HbY&list=PLbn3jWIXv_iZhs7hxhKlCoBRrrLQ2OG6Z&index=1)
 
 [AWS SFTP Server - Production-Ready](https://www.youtube.com/watch?v=Y-_tz9afzS8&list=PLbn3jWIXv_iaYoaT6EeycWBnlgM6LaZUA&index=1)
