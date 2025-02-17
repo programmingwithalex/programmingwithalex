@@ -9,7 +9,13 @@
 
 I work as a developer right now, with my language of choice being python. I create a lot of different software, and in my spare time make YouTube videos on python, CI/CD, and AWS stuff. You can check out my [YouTube channel](https://youtube.com/@programmingwithalex) directly, or refer to some of the playlist I've linked below.
 
-If you'd like to get in touch feel free to [email me](mailto:programmingwithalex3@gmail.com).
+If you find any of my work helpful, please consider:
+* sponsoring me on [Patreon](https://www.patreon.com/programmingwithalex) or [GitHub Sponsors](https://github.com/sponsors/programmingwithalex)
+* subscribing to my [YouTube channel](https://youtube.com/@programmingwithalex)
+* follow me on GitHub
+* starring the GitHub repos you found helpful
+
+And if you'd like to get in touch feel free to [email me](mailto:programmingwithalex3@gmail.com).
 
 ---
 
