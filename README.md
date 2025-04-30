@@ -45,3 +45,15 @@ And if you'd like to get in touch feel free to [email me](mailto:programmingwith
 </td>
 </tr></table>
 </div>
+
+## Repositories with Playlists to Come
+
+<table>
+<tr><td valign="top" width="100%">
+
+### Python
+
+[FastAPI - Google OAuth2 - Redis Sessions - Flask Frontend](https://github.com/programmingwithalex/fastapi_with_google_oauth_and_redis_sessions)
+</td>
+</tr></table>
+</div>
