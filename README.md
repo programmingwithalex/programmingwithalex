@@ -53,7 +53,9 @@ And if you'd like to get in touch feel free to [email me](mailto:programmingwith
 
 ### Python
 
-[FastAPI - Google OAuth2 - Redis Sessions - Flask Frontend](https://github.com/programmingwithalex/fastapi_with_google_oauth_and_redis_sessions)
+[FastAPI - Google OAuth2 - Redis & Sessions - Flask Frontend](https://github.com/programmingwithalex/fastapi_with_google_oauth_and_redis_sessions)
+
+[FastAPI - Google OAuth2 - Redis & JWT - Flask Frontend](https://github.com/programmingwithalex/fastapi_googleoauth_jwt_and_redis)
 </td>
 </tr></table>
 </div>
