@@ -1,4 +1,4 @@
-<h2> Welcome to my profile<img src="https://media.giphy.com/media/UQnRw2GW4xGwu519XE/giphy.gif" width="50"></h2>
+<h2> Welcome to my profile <img src="https://media.giphy.com/media/UQnRw2GW4xGwu519XE/giphy.gif" width="100"></h2>
 
 [![Youtube Alex](https://img.shields.io/youtube/channel/views/UC4UApj67YtJq2a2PAzmbQAQ?style=social)](https://www.youtube.com/channel/UC4UApj67YtJq2a2PAzmbQAQ)
 [![Youtube Alex](https://img.shields.io/youtube/channel/subscribers/UC4UApj67YtJq2a2PAzmbQAQ?style=social)](https://www.youtube.com/channel/UC4UApj67YtJq2a2PAzmbQAQ)
@@ -19,6 +19,50 @@ If you find any of my work helpful, please consider:
 And if you'd like to get in touch feel free to [email me](mailto:programmingwithalex3@gmail.com).
 
 ---
+
+## 🧑‍💻 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/VBA-327226?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA"/>
+  <img src="https://img.shields.io/badge/YAML-C9DBE9?style=for-the-badge&logo=yaml&logoColor=black" alt="YAML"/>
+</p>
+
+## 🧱 Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+</p>
+
+## 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+## 🚧 Currently Working On
+
+* Implementing K8s cluster on AWS EKS with:
+  * Ingresses with Nginx and ALB
+  * Helm charts for configuration
+  * Horizontal Pod Autoscaling (HPA)
+  * Prometheus and Grafana for metrics monitoring
+  * Deployment via Application Sets
+  * Argo CD for GitOps
+  * CI/CD with GitHub Actions & AWS EKS
 
 ## Youtube Playlists
 
