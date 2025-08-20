@@ -28,17 +28,25 @@ And if you'd like to get in touch feel free to [email me](mailto:programmingwith
 ## 🧑‍💻 Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/VBA-327226?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA"/>
-  <img src="https://img.shields.io/badge/YAML-C9DBE9?style=for-the-badge&logo=yaml&logoColor=black" alt="YAML"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VBA-327226?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
+
+## 📑 Config & Infra Languages
+
+<p>
+  <img src="https://img.shields.io/badge/YAML-C9DBE9?style=for-the-badge&logo=yaml&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Dockerfile-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HCL-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="HashiCorp Configuration Language"/>
+</p>
+
 
 ## 🧱 Frameworks
 
