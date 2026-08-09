@@ -1,29 +1,74 @@
-<h2> Welcome to my profile <img src="https://media.giphy.com/media/UQnRw2GW4xGwu519XE/giphy.gif" width="100"></h2>
+<h1 align="center">
+  <img src="https://placehold.co/70x1/transparent/transparent" width="70"/>
+  Welcome to my profile
+  <img src="https://media.giphy.com/media/UQnRw2GW4xGwu519XE/giphy.gif" width="70" align="center" alt="Welcome"/>
+</h1>
 
-[![Youtube Alex](https://img.shields.io/youtube/channel/views/UC4UApj67YtJq2a2PAzmbQAQ?style=social)](https://www.youtube.com/channel/UC4UApj67YtJq2a2PAzmbQAQ)
-[![Youtube Alex](https://img.shields.io/youtube/channel/subscribers/UC4UApj67YtJq2a2PAzmbQAQ?style=social)](https://www.youtube.com/channel/UC4UApj67YtJq2a2PAzmbQAQ)
-[![GitHub Alex](https://img.shields.io/github/followers/programmingwithalex?label=follow&style=social)](https://github.com/programmingwithalex?tab=followers)
-[![GitHub Alex](https://img.shields.io/github/stars/programmingwithalex?style=social)](https://github.com/programmingwithalex)
-![](https://komarev.com/ghpvc/?username=programmingwithalex&style=flat&color=blue)
-<br/><br/>
-<a href="https://www.patreon.com/programmingwithalex"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dprogrammingwithalex%26type%3Dpatrons&style=for-the-badge"/></a>
+<p align="center">
+  <strong>Python • AWS • DevOps • SRE • Kubernetes • Distributed Systems</strong>
+</p>
 
-## 👋 Hey, I'm Alex
+<p align="center">
+  I build and operate cloud-native and distributed systems with Kubernetes and SRE practices,
+  create open-source projects, and publish practical tutorials on Python, AWS, DevOps, and infrastructure engineering.
+</p>
 
-I'm a coder specializing in **Python, AWS, and DevOps**.  
-I design and build cloud-native systems in AWS, create open-source projects, and make YouTube tutorials on Python, AWS, and infrastructure engineering.
+<p align="center">
+  <a href="https://youtube.com/@programmingwithalex">
+    <img src="https://img.shields.io/badge/YouTube-Programming%20with%20Alex-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.patreon.com/programmingwithalex">
+    <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dprogrammingwithalex%26type%3Dpatrons&style=for-the-badge" alt="Patreon patrons"/>
+  </a>
+</p>
 
-You can check out my [YouTube channel](https://youtube.com/@programmingwithalex) directly, or refer to some of the playlist I've linked below if you're interested.
+<p align="center">
+  <a href="https://youtube.com/@programmingwithalex">
+    <img src="https://img.shields.io/youtube/channel/views/UC4UApj67YtJq2a2PAzmbQAQ?style=social" alt="YouTube channel views"/>
+  </a>
+  <a href="https://youtube.com/@programmingwithalex">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC4UApj67YtJq2a2PAzmbQAQ?style=social" alt="YouTube subscribers"/>
+  </a>
+  <a href="https://github.com/programmingwithalex?tab=followers">
+    <img src="https://img.shields.io/github/followers/programmingwithalex?label=follow&style=social" alt="GitHub followers"/>
+  </a>
+  <a href="https://github.com/programmingwithalex">
+    <img src="https://img.shields.io/github/stars/programmingwithalex?style=social" alt="GitHub stars"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=programmingwithalex&style=flat&color=blue" alt="Profile views"/>
+</p>
 
-If you find any of my work helpful, please consider:
-* sponsoring me on [Patreon](https://www.patreon.com/programmingwithalex) or [GitHub Sponsors](https://github.com/sponsors/programmingwithalex)
-* subscribing to my [YouTube channel](https://youtube.com/@programmingwithalex)
-* follow me on GitHub
-* starring the GitHub repos you found helpful
+## 👨‍💻 About Me
 
-And if you'd like to get in touch feel free to [email me](mailto:programmingwithalex3@gmail.com).
+I'm a developer specializing in **Python, AWS, DevOps, SRE, Kubernetes, and distributed systems**.
 
----
+I design, build, and operate cloud-native and distributed systems on AWS, work with containers and Kubernetes, automate infrastructure and deployments, and apply SRE practices to improve reliability, observability, and operational efficiency.
+
+I also create open-source projects and publish practical technical tutorials on [YouTube](https://youtube.com/@programmingwithalex).
+
+My main areas of interest include:
+
+- AWS architecture and cloud infrastructure
+- Python backend development
+- Site Reliability Engineering (SRE)
+- Kubernetes and container orchestration
+- Distributed systems
+- Infrastructure as Code
+- CI/CD and GitOps
+- Observability and monitoring
+- Reliability and production operations
+
+## ❤️ Support My Work
+
+If one of my projects or tutorials has helped you, you can support my work by:
+
+- ⭐ Starring repositories you find useful
+- 👤 Following me on GitHub
+- ▶️ Subscribing on [YouTube](https://youtube.com/@programmingwithalex)
+- 💖 Sponsoring me through [GitHub Sponsors](https://github.com/sponsors/programmingwithalex)
+- 🧡 Supporting me on [Patreon](https://www.patreon.com/programmingwithalex)
+
+If you'd like to get in touch, feel free to [email me](mailto:programmingwithalex3@gmail.com).
 
 ## 🧑‍💻 Languages
 
@@ -38,7 +83,7 @@ And if you'd like to get in touch feel free to [email me](mailto:programmingwith
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-## 📑 Config & Infra Languages
+## ☁️ Infrastructure & Configuration
 
 <p>
   <img src="https://img.shields.io/badge/YAML-C9DBE9?style=for-the-badge&logo=yaml&logoColor=black"/>
@@ -46,16 +91,15 @@ And if you'd like to get in touch feel free to [email me](mailto:programmingwith
   <img src="https://img.shields.io/badge/HCL-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="HashiCorp Configuration Language"/>
 </p>
 
-
 ## 🧱 Frameworks
 
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
-## 🛠️ Tools & Technologies
+## 🛠️ Cloud, DevOps & SRE
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -63,29 +107,44 @@ And if you'd like to get in touch feel free to [email me](mailto:programmingwith
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ArgoCD-FC6D26?style=for-the-badge&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Argo%20CD-FC6D26?style=for-the-badge&logo=argo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+</p>
+
+## 🔄 Messaging & Distributed Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
 ## 🚧 Currently Working On
 
-* Implementing K8s cluster on AWS EKS with:
-  * Ingresses with Nginx and ALB
-  * Helm charts for configuration
-  * Horizontal Pod Autoscaling (HPA)
-  * Prometheus and Grafana for metrics monitoring
-  * Deployment via Application Sets
-  * Argo CD for GitOps
-  * CI/CD with GitHub Actions & AWS EKS
+I'm currently working with **Kubernetes, SRE, and cloud infrastructure**, including:
 
-## Youtube Playlists
+- Amazon EKS and production Kubernetes environments
+- NGINX and AWS ALB ingress
+- Helm-based application configuration
+- Horizontal Pod Autoscaling
+- Prometheus and Grafana monitoring
+- Argo CD ApplicationSets
+- GitOps-based deployments
+- CI/CD with GitHub Actions
+- AWS infrastructure and deployment automation
+- Reliability, observability, and production operations
+- Distributed systems and resilient architecture
+
+## 📺 YouTube Tutorials
 
 <table>
-<tr><td valign="top" width="50%">
+<tr>
+<td valign="top" width="50%">
 
-### AWS
+### ☁️ AWS
 
 [Running Celery, Flask, and NGINX on AWS](https://www.youtube.com/watch?v=RBj7ctj5Sk8&list=PLbn3jWIXv_iZqYn-RxjzaGXrDTWa3OnNw&index=1)
 
@@ -98,24 +157,37 @@ And if you'd like to get in touch feel free to [email me](mailto:programmingwith
 [Python + AWS Lambda Deployment](https://www.youtube.com/watch?v=gvfoZq258gA&list=PLbn3jWIXv_ibGQml3zlXi1TfmdcIl6Afy&index=1)
 
 [AWS Lambda Static IP](https://www.youtube.com/watch?v=Vv2CIshrPjI&list=PLbn3jWIXv_iaiPMuF3n_foGA54To_LceT&index=1)
-</td><td valign="top" width="50%">
-  
-### DevOps
-[Python + DevOps with GitHub Actions](https://www.youtube.com/watch?v=x3hkXbOkfM8&list=PLbn3jWIXv_ibMS6CFOKMZkOHimDB9xdU2&index=1)
-</td>
-</tr></table>
-</div>
 
-## Repositories with Playlists to Come
+</td>
+<td valign="top" width="50%">
+
+### ⚙️ DevOps
+
+[Python + DevOps with GitHub Actions](https://www.youtube.com/watch?v=x3hkXbOkfM8&list=PLbn3jWIXv_ibMS6CFOKMZkOHimDB9xdU2&index=1)
+
+</td>
+</tr>
+</table>
+
+## 🧪 Projects & Upcoming Tutorials
 
 <table>
-<tr><td valign="top" width="100%">
+<tr>
+<td valign="top" width="100%">
 
-### Python
+### 🐍 Python
 
-[FastAPI - Google OAuth2 - Redis & Sessions - Flask Frontend](https://github.com/programmingwithalex/fastapi_with_google_oauth_and_redis_sessions)
+**[FastAPI - Google OAuth2 - Redis & Sessions - Flask Frontend](https://github.com/programmingwithalex/fastapi_with_google_oauth_and_redis_sessions)**
 
-[FastAPI - Google OAuth2 - Redis & JWT - Flask Frontend](https://github.com/programmingwithalex/fastapi_googleoauth_jwt_and_redis)
+FastAPI backend with Google OAuth2 authentication, Redis-backed sessions, and a Flask frontend.
+
+<br/>
+
+**[FastAPI - Google OAuth2 - Redis & JWT - Flask Frontend](https://github.com/programmingwithalex/fastapi_googleoauth_jwt_and_redis)**
+
+FastAPI backend using Google OAuth2, Redis, JWT-based authentication, and a Flask frontend.
+
 </td>
-</tr></table>
-</div>
+</tr>
+</table>
+
